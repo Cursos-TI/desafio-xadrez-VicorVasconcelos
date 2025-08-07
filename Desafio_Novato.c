@@ -4,6 +4,8 @@ int main() {
     // Simulação do movimento da Torre usando for
     int casasTorre = 5;
     int i;
+    printf("-------Bem Vindo ao Jogo de Xadrez-------\n");
+    
     printf("Movimento da Torre (5 casas para a direita):\n");
     for (i = 1; i <= casasTorre; i++) {
         printf("Direita\n");
