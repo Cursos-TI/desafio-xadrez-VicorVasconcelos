@@ -43,7 +43,7 @@ As movimentações da Torre, Rainha e Bispo agora usam funções recursivas. Mai
 
 Cavalo com movimentos complexos e precisos 🎯:
 
-O Cavalo agora se move em "L" (duas casas para cima e uma para a direita) usando loops aninhados com continue e break para um controle de fluxo super detalhado.
+O Cavalo agora se move em "L" (duas casas para baixa e uma para a esquerda) usando loops aninhados com continue e break para um controle de fluxo super detalhado.
 
 Bispo em camadas 📈:
 
@@ -51,7 +51,7 @@ O Bispo também ganhou loops aninhados dentro da sua recursividade, com um loop 
 
 # Organização 📚:
 
-O código foi reestruturado com mais funções e comentários detalhados para explicar a magia da recursividade e dos loops aninhados.
+O código foi reestruturado com mais funções e comentários detalhados para explicar o uso da recursividade e dos loops aninhados.
 
 # 🖥️ Como rodar
 Salva o código em um arquivo .c, tipo xadrez.c.
